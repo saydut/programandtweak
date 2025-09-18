@@ -1,0 +1,143 @@
+{
+  "programs": {
+    "winget": [
+      { "name": "Discord", "id": "Discord.Discord" },
+      { "name": "Steam", "id": "Valve.Steam" },
+      { "name": "Afterburner", "id": "MSI.Afterburner" },
+      { "name": "Notebook-FanControl", "id": "hirschmann.nbfc" },
+      { "name": "BlueStacks", "id": "BlueStackSystems.BlueStacks.5" },
+      { "name": "Visual Studio programlari -Hepsi bir arada- (Oyunlar icin)", "id": "Microsoft.VCRedist.2015+.x64" },
+      { "name": "FxSound", "id": "FxSound.FxSound" },
+      { "name": "Lively Wallpaper", "id": "rocksdanister.Lively" },
+      { "name": "Winrar", "id": "RARLab.WinRAR" },
+      { "name": "Vlc Media Player", "id": "VideoLAN.VLC" },
+      { "name": "HWInfo", "id": "HWiNFO.HWiNFO" },
+      { "name": "Spacedesk Windows Driver", "id": "datronicsoft.spacedesk" },
+      { "name": "Nvidia Gaming Experience", "id": "Nvidia.GeForceExperience" },
+      { "name": "Whatsapp", "id": "WhatsApp.WhatsApp" },
+      { "name": "MS Zoom", "id": "Zoom.Zoom" },
+      { "name": "Opera GX Browser", "id": "Opera.OperaGX" },
+      { "name": "Spotify", "id": "Spotify.Spotify" },
+      { "name": "Apple iTunes", "id": "Apple.iTunes" },
+      { "name": "Deezer", "id": "Deezer.Deezer" },
+      { "name": "Youtube Music Desktop", "id": "ytmdesktop.ytmdesktop" },
+      { "name": "Epic Games", "id": "EpicGames.EpicGamesLauncher" },
+      { "name": "Skype", "id": "Microsoft.Skype" },
+      { "name": "Adobe Acrobat (64bit)", "id": "Adobe.Acrobat.Reader.64-bit" },
+      { "name": "Yandex Disk", "id": "Yandex.Disk" },
+      { "name": "LibreOffice", "id": "TheDocumentFoundation.LibreOffice" },
+      { "name": "LOL EUW", "id": "RiotGames.LeagueOfLegends.EUW" },
+      { "name": "Chrome", "id": "Google.Chrome" },
+      { "name": "Cloudflare WARP", "id": "Cloudflare.WARP" },
+      { "name": "7Zip", "id": "7zip.7zip" },
+      { "name": "AIDA 64 Extreme", "id": "FinalWire.AIDA64.Extreme" },
+      { "name": "Recuva", "id": "Piriform.Recuva" },
+      { "name": "Rufus", "id": "Rufus.Rufus" },
+      { "name": "Brave Browser", "id": "Brave.Brave" },
+      { "name": "Teamviewer", "id": "TeamViewer.TeamViewer" },
+      { "name": "QBitTorrent", "id": "qBittorrent.qBittorrent" },
+      { "name": "CCleaner", "id": "Piriform.CCleaner" },
+      { "name": "DirectX", "id": "Microsoft.DirectX" }
+    ],
+    "choco": [
+        { "name": "Discord", "id": "discord" },
+        { "name": "Steam", "id": "steam" },
+        { "name": "Afterburner", "id": "msiafterburner" },
+        { "name": "Google Drive", "id": "googledrive" },
+        { "name": "Notebook-FanControl", "id": "nbfc" },
+        { "name": "BlueStacks", "id": "bluestacks" },
+        { "name": "FX Sound", "id": "fxsound" },
+        { "name": "Lively Wallpaper", "id": "lively" },
+        { "name": "Winrar", "id": "winrar" },
+        { "name": "Vlc Media Player", "id": "vlc" },
+        { "name": "HWInfo", "id": "hwinfo.portable" },
+        { "name": "Spacedesk Windows Driver", "id": "spacedesk-server" },
+        { "name": "Nvidia Gaming Experience", "id": "nvidia-geforce-now" },
+        { "name": "Nvidia Display Driver", "id": "nvidia-display-driver" },
+        { "name": "Whatsapp", "id": "whatsapp --version 2.2306.9" },
+        { "name": "MS Zoom", "id": "zoom" },
+        { "name": "Opera GX Browser", "id": "opera-gx" },
+        { "name": "Spotify", "id": "spotify" },
+        { "name": "Apple iTunes", "id": "itunes" },
+        { "name": "Deezer", "id": "deezer" },
+        { "name": "Youtube Music Desktop", "id": "th-ch-youtube-music" },
+        { "name": "Epic Games", "id": "epicgameslauncher" },
+        { "name": "Skype", "id": "skype" },
+        { "name": "Adobe Acrobat (64bit)", "id": "adobereader" },
+        { "name": "LibreOffice", "id": "libreoffice-fresh" },
+        { "name": "Google Chrome", "id": "googlechrome" },
+        { "name": "Cloudflare WARP", "id": "warp" },
+        { "name": "7Zip", "id": "7zip" },
+        { "name": "AIDA 64 Extreme Portable", "id": "aida64-extreme.portable" },
+        { "name": "Recuva", "id": "recuva" },
+        { "name": "Rufus Portable", "id": "rufus.portable" },
+        { "name": "Brave Browser", "id": "brave" },
+        { "name": "Teamviewer", "id": "teamviewer" },
+        { "name": "QBitTorrent", "id": "qbittorrent" },
+        { "name": "CCleaner Portable", "id": "ccleaner.portable" }
+    ]
+  },
+  "tweaks": {
+    "UWT 5.1 (Ultimate Windows Tweaker 5.1)": {
+        "type": "download_zip_and_run",
+        "url": "https://www.thewindowsclub.com/downloads/UWT5.zip",
+        "exe_name": "Ultimate Windows Tweaker 5.1.exe"
+    },
+    "DNS Jumper": {
+        "type": "download_zip_and_run",
+        "url": "https://www.sordum.org/files/download/dns-jumper/DnsJumper.zip",
+        "exe_name": "DnsJumper.exe"
+    },
+    "BloatyNosy": {
+        "type": "download_zip_and_run",
+        "url": "https://github.com/builtbybel/Bloatynosy/releases/download/1.4.0/BloatynosyApp.zip",
+        "exe_name": "Bloatynosy.exe"
+    },
+    "Linus Titus Uzman Ayarlari": {
+        "type": "powershell_web",
+        "command": "Invoke-WebRequest -Uri 'https://christitus.com/win' | Invoke-Expression"
+    },
+    "Sağ Tık Güç Seceneklerini Ayarlama Özelliği Ekleme": {
+        "type": "local_file",
+        "path": "Tweakler Kurcalama/sagtikguc.reg"
+    },
+    "Sağ Tık Güç Seceneklerini Ayarlama Özelliği İptali": {
+        "type": "local_file",
+        "path": "Tweakler Kurcalama/sagtikguciptal.reg"
+    },
+    "Güç Seçeneklerine CPU Frekansı Ayarı Getirme/Kaldırma": {
+        "type": "local_file",
+        "path": "Tweakler Kurcalama/cpufrekansaktifdeaktif.vbe"
+    },
+    "Msi Utility V3": {
+        "type": "local_admin",
+        "path": "Tweakler Kurcalama/msiutil.exe"
+    },
+    "SSD Booster": {
+        "type": "download_and_run",
+        "url": "https://files1.majorgeeks.com/10afebdbffcd4742c81a3cb0f6ce4092156b4375/drives/SSDBooster.exe"
+    },
+    "Optimizer": {
+        "type": "download_and_run",
+        "url": "https://github.com/hellzerg/optimizer/releases/download/16.4/Optimizer-16.4.exe"
+    },
+    "WingetUI Installer (Başlaması için 2dk kadar bekleyin!)": {
+        "type": "winget",
+        "id": "SomePythonThings.WingetUIStore"
+    },
+    "SDIO Driver": {
+        "type": "download_zip_and_run",
+        "url": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.12.18.759.zip",
+        "exe_name": "SDIO_x64_R759.exe"
+    },
+    "AppCopier": {
+        "type": "download_and_run",
+        "url": "https://github.com/builtbybel/Appcopier/releases/download/0.30.0/appcopier_setup.msi"
+    },
+    "Custom Resolution Utility (CRU)": {
+        "type": "download_zip_and_run",
+        "url": "https://www.monitortests.com/download/cru/cru-1.5.2.zip",
+        "exe_name": "CRU.exe"
+    }
+  }
+}
