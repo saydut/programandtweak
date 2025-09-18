@@ -1,0 +1,10 @@
+10.5.1
+
+* Temalar Windows'a uyarlandı.
+* Chocolatey ile kurulum fonksiyonu eklendi.
+* Güncelleme fonksiyonu ayarlandı.
+
+
+
+link=https://gitlab.com/saydut/program-and-tweak-manager/-/raw/main/mysetup.zip
+

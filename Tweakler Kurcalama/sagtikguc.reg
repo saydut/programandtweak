@@ -1,0 +1,28 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme]
+"Icon"="powercpl.dll"
+"MUIVerb"="Güç Seçenekleri"
+"Position"="Middle"
+"SubCommands"=""
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme\Shell\Balanced]
+"MUIVerb"="Dengeli"
+"Icon"="powercpl.dll"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme\Shell\Balanced\Command]
+@="powercfg.exe /s 381b4222-f694-41f0-9685-ff5bb260df2e"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme\Shell\High Performance]
+"MUIVerb"="Nihai Performans"
+"Icon"="powercpl.dll"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme\Shell\High Performance\Command]
+@="powercfg.exe /s 21de57b6-bdb3-469d-8226-df962a55ba4c"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme\Shell\Power Saver]
+"MUIVerb"="Güç Tasarrufu"
+"Icon"="powercpl.dll"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\SwitchPowerScheme\Shell\Power Saver\Command]
+@="powercfg.exe /s a15709ff-35b6-4ad8-b095-fa1b933cfd13"
